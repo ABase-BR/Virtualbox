@@ -4,7 +4,7 @@
 - Instalação no Linux via APT
 - Instalação no Linux via DPKG
 
-[Instalação do Extension Pack] (https://github.com/ABase-BR/Virtualbox/blob/master/Instalacao-do-Extension-Pack-no-Virtualbox.md)
+- [Instalação do Extension Pack](https://github.com/ABase-BR/Virtualbox/blob/master/Instalacao-do-Extension-Pack-no-Virtualbox.md)
 
 - Instalação do Virtualbox no Windows
 - Instalação do VBox Additions
