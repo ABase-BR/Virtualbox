@@ -8,7 +8,7 @@ Vá para o site oficial do VirtualBox no seguinte link como na imagem abaixo.
 https://www.virtualbox.org/wiki/Downloads
 ```
 
-![Instalação Virtualbox no Windows](https://abase.greenmindlabs.com/images/virtualizacao/Virtualbox/Instalacao-Sistema-Windows/1-VirtualBox.png)
+![Instalação Virtualbox no Windows](https://raw.githubusercontent.com/ABase-BR/abase-br.github.io/master/images/Virtualbox/Instalacao-Sistema-Windows/1-VirtualBox.png)
 
 Em seguida escolha o download para **Windows** como na imagem abaixo.
 
