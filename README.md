@@ -1,0 +1,5 @@
+- Instalação do VBox Additions
+- Exportando uma maquina virtual
+- Conffigurando rede
+- Configurando armazenamento
+- CLI - Controlando virtualbox via linha de comando
